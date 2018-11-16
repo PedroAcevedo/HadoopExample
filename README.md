@@ -1,5 +1,5 @@
 # HadoopExample
-Get Started with Hadoop with docker and Datamining process on a csv dataset.
+Get Started with Hadoop on docker and Datamining process using a dataset.
 
 Based on the tutorial
 
